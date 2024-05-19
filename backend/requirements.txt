@@ -1,0 +1,6 @@
+pandas
+nltk
+torch
+transformers
+rouge-score
+certifi
